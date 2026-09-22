@@ -6,7 +6,7 @@ workers_dev = true
 
 [[kv_namespaces]]
 binding = "BOT_KV"
-id = "ENTER-KV-ID"
+id = "1c226cd6da3943f6b11eb31854e4b8f3"
 
 [assets]
 directory = "./public"
